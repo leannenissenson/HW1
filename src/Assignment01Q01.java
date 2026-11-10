@@ -5,6 +5,7 @@ public class Assignment01Q01 {
             int first_char_number = (int)first_char; 
             if ((first_char_number%5)==0) {
                 System.out.println(first_char); 
+                
             }
         }
     }
