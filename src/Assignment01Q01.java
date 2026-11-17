@@ -6,6 +6,7 @@ public class Assignment01Q01 {
             if ((first_char_number%5)==0) {
                 System.out.println(first_char); 
                 
+                
             }
         }
     }
